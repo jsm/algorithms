@@ -1,7 +1,10 @@
 .metadata/
+.settings/
 
 *.class
 *.DS_Store
+.classpath
+.project
 
 # Package Files #
 *.jar
